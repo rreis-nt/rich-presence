@@ -1,4 +1,4 @@
-# 🎮 Rich Presence by Katiau
+# 🎮 Rich Presence feito por Ryan Antonio Dos Reis De Oliveira
 
 O **Rich Presence by Katiau** é uma ferramenta desenvolvida para personalizar e exibir um status dinâmico no Discord, tornando seu perfil mais interativo e com visual profissional. Ideal para criadores de conteúdo, desenvolvedores e gamers que desejam exibir informações personalizadas sobre suas atividades!
 
